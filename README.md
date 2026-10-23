@@ -26,13 +26,13 @@ A personal lab that makes the whole delivery path visible: **test → package �
 
 | What’s inside | What the evidence shows |
 | :--- | :--- |
-| Python HTTP service | **11 passing HTTP tests locally** covering health, readiness, metrics, errors, configuration, and concurrent requests |
+| Python HTTP service | **11 passing HTTP tests locally and in CI** covering health, readiness, metrics, errors, configuration, and concurrent requests |
 | Non-root Docker container | Build and read-only runtime smoke test passed in GitHub Actions |
 | Security checks | Trivy passed the configured gate for fixable HIGH / CRITICAL findings; workflow actions use pinned commits |
 | Kubernetes on Kind | Automated rollout, HTTP verification, controlled readiness failure, and recovery passed |
 | Observability | Working direct-metrics dashboard verified locally in healthy, degraded, disconnected and recovery states; Prometheus config validated, live scrape unverified |
 
-**[Repository](https://github.com/devijhanu130-hub/devops-signal)** · **[Successful pipeline run](https://github.com/devijhanu130-hub/devops-signal/actions/runs/39854092436)** · **[Recovery runbook](https://github.com/devijhanu130-hub/devops-signal/blob/main/docs/runbook.md)** · **[Portfolio case study](https://jaya-devi-portfolio.vercel.app/#personal-project)**
+**[Repository](https://github.com/devijhanu130-hub/devops-signal)** · **[Successful pipeline run](https://github.com/devijhanu130-hub/devops-signal/actions/runs/39945595560)** · **[Recovery runbook](https://github.com/devijhanu130-hub/devops-signal/blob/main/docs/runbook.md)** · **[Portfolio case study](https://jaya-devi-portfolio.vercel.app/#personal-project)**
 
 <sub>Personal learning project, developed with AI assistance. The Kubernetes cluster is temporary. This is execution evidence for a demo, not a production availability claim.</sub>
 
