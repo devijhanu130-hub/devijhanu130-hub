@@ -3,12 +3,22 @@
 </p>
 
 <p align="center">
-  <a href="https://jaya-devi-portfolio.vercel.app/">Explore my portfolio ↗</a>
+  <a href="https://github.com/devijhanu130-hub/devops-signal">Open DevOps Signal project ↗</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/devijhanu130-hub/devops-signal">Inspect the code ↗</a>
+  <a href="https://github.com/devijhanu130-hub/devops-signal/actions/runs/39945595560">See successful CI run ↗</a>
   &nbsp; · &nbsp;
-  <a href="mailto:devijhanu130@gmail.com">Get in touch ↗</a>
+  <a href="https://jaya-devi-portfolio.vercel.app/">Portfolio website ↗</a>
 </p>
+
+### Start here: a working DevOps project
+
+**[DevOps Signal](https://github.com/devijhanu130-hub/devops-signal)** is a public, personal engineering project. It contains the actual Python service, Docker container, Kubernetes manifests, CI workflow, monitoring dashboard, tests, screenshots, and operational notes.
+
+- [Open the repository](https://github.com/devijhanu130-hub/devops-signal)
+- [See the successful automated pipeline](https://github.com/devijhanu130-hub/devops-signal/actions/runs/39945595560)
+- [View monitoring screenshots and instructions](https://github.com/devijhanu130-hub/devops-signal/blob/main/docs/dashboard.md)
+
+<sub>This GitHub profile is where the code and verification evidence live. The separate portfolio website is for career background and project presentation.</sub>
 
 ### Infrastructure should be understandable, repeatable, and resilient.
 
